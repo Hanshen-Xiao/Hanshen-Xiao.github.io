@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a last-year Ph.D. student in MIT, EECS Department, where I am very fortunately advised by [Srinivas Devadas] ([https://people.csail.mit.edu/devadas/]). Prior to this, I earned my M.S. degree in Computer Science from MIT in 2019 and my B.S. degree in Mathematics from Tsinghua University in 2017. 
+I'm a last-year Ph.D. student in MIT, EECS Department, where I am very fortunately advised by [Srinivas Devadas] (https://people.csail.mit.edu/devadas). Prior to this, I earned my M.S. degree in Computer Science from MIT in 2019 and my B.S. degree in Mathematics from Tsinghua University in 2017. 
 
 I’m on the job market of Fall 2023!
 ======
@@ -21,7 +21,7 @@ I am broadly interested in information security, privacy and robust statistics. 
 
 My earlier works encompass a range of related topics including Byzantine consensus and proof of work in applied cryptography, and constrained sampling theory in signal processing.
 
-I was a recipient of [Mathwork Fellowship (2021-2023)]([https://engineering.mit.edu/fellows/hanshen-xiao/]) and [Tsinghua Future Scholar Fellowship (2016-2017)] ([https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm]). My research has also been supported and funded by [DSTA, Singapore]([https://www.dsta.gov.sg/home]), [Captical One]([https://www.capitalone.com/]) and [Cisco]([https://www.cisco.com/#tabs-9cfa4a460b-item-b8ba101fed-tab]). 
+I was a recipient of [Mathwork Fellowship (2021-2023)](https://engineering.mit.edu/fellows/hanshen-xiao/) and [Tsinghua Future Scholar Fellowship (2016-2017)] (https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm). My research has also been supported and funded by [DSTA, Singapore](https://www.dsta.gov.sg/home), [Captical One](https://www.capitalone.com) and [Cisco](https://www.cisco.com/#tabs-9cfa4a460b-item-b8ba101fed-tab). 
 
 
 
