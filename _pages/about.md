@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a last-year Ph.D. student in MIT, EECS Department, where I am very fortunately advised by [Srinivas Devadas] (https://people.csail.mit.edu/devadas). Prior to this, I earned my M.S. degree in Computer Science from MIT in 2019 and my B.S. degree in Mathematics from Tsinghua University in 2017. 
+I'm a last-year Ph.D. student in MIT, EECS Department, where I am very fortunately advised by [Srinivas Devadas](https://people.csail.mit.edu/devadas). Prior to this, I earned my M.S. degree in Computer Science from MIT in 2019 and my B.S. degree in Mathematics from Tsinghua University in 2017. 
 
 I’m on the job market of Fall 2023!
 ======
