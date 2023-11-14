@@ -21,7 +21,7 @@ I am broadly interested in information security, privacy and robust statistics. 
 
 My earlier works encompass a range of related topics including Byzantine consensus and proof of work in applied cryptography, and constrained sampling theory in signal processing.
 
-I was a recipient of [Mathwork Fellowship (2021-2023)](https://engineering.mit.edu/fellows/hanshen-xiao/) and [Tsinghua Future Scholar Fellowship (2016-2017)] (https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm). My research has also been supported and funded by [DSTA, Singapore](https://www.dsta.gov.sg/home), [Captical One](https://www.capitalone.com) and [Cisco](https://www.cisco.com/#tabs-9cfa4a460b-item-b8ba101fed-tab). 
+I was a recipient of [Mathwork Fellowship](https://engineering.mit.edu/fellows/hanshen-xiao/) (2021-2023) and [Tsinghua Future Scholar Fellowship](https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm) (2016-2017) . My research has also been supported and funded by [DSTA, Singapore](https://www.dsta.gov.sg/home), [Captical One](https://www.capitalone.com) and [Cisco](https://www.cisco.com/#tabs-9cfa4a460b-item-b8ba101fed-tab). 
 
 
 
