@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a last-year Ph.D. student in MIT, EECS Department, where I'm very fortunately advised by [Srini Devadas](https://people.csail.mit.edu/devadas). Previously, I earned my M.S. degree in Computer Science from MIT in 2019 and my B.S. degree in Mathematics from Tsinghua University in 2017. 
+I'm a last-year Ph.D. student in MIT, EECS Department, where I'm very fortunately advised by [Srini Devadas](https://people.csail.mit.edu/devadas). Previously, I earned my M.S. degree in Computer Science from MIT in 2019 and my B.S. degree in Mathematics from Tsinghua University in 2017. You can find my CV [here](Hanshen-Xiao.github.io/_pages/files/Hanshen_Xiao_CV.pdf). 
 
 I’m on the job market of Fall 2024!
 ======
