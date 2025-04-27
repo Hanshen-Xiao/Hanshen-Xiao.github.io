@@ -28,7 +28,7 @@ Current PhD Students
 - Justin He (2025-, UCSD, B.S. in Mathematics + Computer Science)
 - [Wendi Wang](https://scholar.google.com/citations?user=LMPPp9cAAAAJ&hl=zh-CN) (2025-, UIUC, Zhejiang University, B.S. in Computer Engineering + Mathematics)
 - Zhouyi Zhang (2025-, Peking University, B.S. in Mathematics)
-- [Zhizhen Yuan](https://www.imo-official.org/participant_r.aspx?id=28734) (2024-, Tsinghua University, B.E. in Computer Science, co-advised with Ninghui Li)
+- [Zhizhen Yuan](https://www.imo-official.org/participant_r.aspx?id=28734) (2024-, Tsinghua University, B.E. in Computer Science, co-advised with [Ninghui Li](https://www.cs.purdue.edu/homes/ninghui/))
 
 
 
