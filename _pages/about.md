@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a post-doc researcher at NVIDIA Research. Starting in the Fall of 2025, I will be an assistant professor in the [Department of Computer Science at Purdue University](https://www.cs.purdue.edu/). I received my PhD degree from the EECS Department of MIT advised by [Srini Devadas](https://people.csail.mit.edu/devadas) and earned my B.S. degree in Mathematics from Tsinghua University. 
+I'm currently a post-doc researcher at NVIDIA Research. Starting in the Summer of 2025, I will be an assistant professor in the [Department of Computer Science at Purdue University](https://www.cs.purdue.edu/). I received my PhD degree from the EECS Department of MIT advised by [Srini Devadas](https://people.csail.mit.edu/devadas) and earned my B.S. degree in Mathematics from Tsinghua University. 
 
 
 I am broadly interested in information privacy, security and robust statistics. I endeavor to establish theory and tools for provable, interpretable and usable security and privacy exploiting statistical, information-theoretical and cryptographic methods. In particular, I focus on 
