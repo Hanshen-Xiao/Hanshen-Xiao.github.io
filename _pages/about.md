@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor in the [Department of Computer Science at Purdue University](https://www.cs.purdue.edu/). I received my Ph.D. degree from the EECS Department of MIT advised by [Srini Devadas](https://people.csail.mit.edu/devadas) and earned my B.S. degree in Mathematics from Tsinghua University. 
+I'm an assistant professor in the [Department of Computer Science at Purdue University](https://www.cs.purdue.edu/) and a researcher at NVIDIA. I received my Ph.D. degree from the EECS Department of MIT advised by [Srini Devadas](https://people.csail.mit.edu/devadas) and earned my B.S. degree in Mathematics from Tsinghua University. 
 
 
 I am broadly interested in **provable trustworthy computation**. My work focuses on developing theoretical frameworks to quantitatively model emerging societal concerns, such as **privacy**, **adversarial robustness,** and **copyright protection**, in cutting-edge data processing tasks. On the practical side, I design algorithms for **black-box** trustworthiness analysis, enabling efficient and automatic constructions of provably trust-preserving solutions by treating the target data processing function as a black box, without requiring additional assumptions or knowledge. Some of my recent works study  
