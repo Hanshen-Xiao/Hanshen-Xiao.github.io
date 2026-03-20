@@ -19,8 +19,7 @@ I am broadly interested in **provable trustworthy computation**. My work focuses
 4. fundamental relationship between security & privacy, the minimal utility/efficiency overhead ([CCS 2023](https://dl.acm.org/doi/pdf/10.1145/3576915.3623142), [IEEE S&P 2023](https://ieeexplore.ieee.org/abstract/document/10179409)) and (Byzantine/Adversarial) robustness ([SODA 2024](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977912.115)) for algorithm co-design and simutaneous improvement.
 
 My earlier works encompass a range of related topics including Byzantine consensus ([TCC 2020a](https://eprint.iacr.org/2020/590.pdf), [TCC 2020b](https://eprint.iacr.org/2020/1236.pdf), [Journal of ACM 2025](/files/acm_journal.pdf)), and proof of work ([TCC 2017](https://eprint.iacr.org/2017/904.pdf)) in applied cryptography, and constrained sampling theory in signal processing ([IEEE-TSP 2023a](https://ieeexplore.ieee.org/abstract/document/10049583), [IEEE-TSP 2023b](https://ieeexplore.ieee.org/abstract/document/10050789)).
-
-I was a recipient of [Mathwork Fellowship](https://engineering.mit.edu/fellows/hanshen-xiao/) (2021-2023) and [Tsinghua Future Scholar Fellowship](https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm) (2015-2017) . My research has also been supported and funded by [DSTA, Singapore](https://www.dsta.gov.sg/home), [Captical One](https://www.capitalone.com) and [Cisco](https://www.cisco.com/#tabs-9cfa4a460b-item-b8ba101fed-tab). 
+I was a recipient of [Mathwork Fellowship](https://engineering.mit.edu/fellows/hanshen-xiao/) (2021-2023) and [Tsinghua Future Scholar Fellowship](https://www.tsinghua.edu.cn/jyjx/yjsjy/jztx.htm) (2015-2017).
 
 I am always looking for students who are passionate about developing useful theory to guide practical solutions. If you're interested in working with me, feel free to send me your CV.
 
