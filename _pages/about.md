@@ -25,10 +25,13 @@ I am always looking for students who are passionate about developing useful theo
 
 
 Current PhD Students
-- Justin He (2025-, UCSD, B.S. in Mathematics + Computer Science)
-- [Wendi Wang](https://scholar.google.com/citations?user=LMPPp9cAAAAJ&hl=zh-CN) (2025-, UIUC, Zhejiang University, B.S. in Computer Engineering + Mathematics)
-- Zhouyi Zhang (2025-, Peking University, B.S. in Mathematics)
-- [Zhizhen Yuan](https://www.imo-official.org/participant_r.aspx?id=28734) (2024-, Tsinghua University, B.E. in Computer Science, co-advised with [Ninghui Li](https://www.cs.purdue.edu/homes/ninghui/))
+- Yifei Ma (2026-)
+- Abhijit Paul (2026-)
+- Zhen Yang (2026-)
+- Justin He (2025-)
+- [Wendi Wang](https://scholar.google.com/citations?user=LMPPp9cAAAAJ&hl=zh-CN) (2025-)
+- Zhouyi Zhang (2025-)
+- [Zhizhen Yuan](https://www.imo-official.org/participant_r.aspx?id=28734) (2024-, co-advised with [Ninghui Li](https://www.cs.purdue.edu/homes/ninghui/))
 
 
 
